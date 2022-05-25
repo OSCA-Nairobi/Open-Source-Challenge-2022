@@ -58,11 +58,11 @@ In this repository, you will find helpful guides and resources to help you get s
 ## Challenge Links
 [Annoucement article](tbd)
 
-[Registration form](https://bit.ly/3yUEjtf)
+[Registration form](https://bit.ly/oscan-part)
 
 [Webinar registration](tbd)
 
-[Submission form](https://bit.ly/3LA1taZ)
+[Submission form](https://bit.ly/oscan-sub)
 
 [Discord server](https://discord.com/invite/pRJgjH9SwR)
 
