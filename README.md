@@ -60,7 +60,7 @@ In this repository, you will find helpful guides and resources to help you get s
 
 [Registration form](https://bit.ly/oscan-part)
 
-[Webinar registration](tbd)
+[Webinar registration](https://bit.ly/oscan-chall)
 
 [Submission form](https://bit.ly/oscan-sub)
 
